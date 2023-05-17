@@ -34,7 +34,7 @@ export default function Joke({ setup, punchline, num }) {
               القادمة، أحبك هذا العام، والعام القادم وكل الاعوام يا حُبي. ♥️
             </p>
             <a
-              href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Resizing_background_images"
+              href="https://heyzine.com/flip-book/6bd6fc7386.html"
               target="_blank"
               id="heart"
               class="button"
